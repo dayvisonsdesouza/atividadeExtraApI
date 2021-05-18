@@ -1,0 +1,133 @@
+.covid {
+    width: 100%;
+    height: auto;
+}
+
+.texto {
+    position: absolute;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    top: 125px;
+    left: 250px;
+    width: 400px;
+    line-height: 80px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 80px;
+}
+
+.informacoes {
+    position: absolute;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    top: 450px;
+    left: 250px;
+    width: 400px;
+    line-height: 50px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.apps {
+    position: absolute;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    top: 600px;
+    left: 300px;
+    width: 400px;
+    line-height: 40px;
+    height: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.oquee {
+    position: absolute;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+    top: 50px;
+    left: 60px;
+    width: 40rem;
+    line-height: 35px;
+    height: 30px;
+    font-weight: 100;
+    font-size: 30px;
+    float: left;
+}
+
+.covid2 {
+    width: 10%;
+    height: 10%;
+    margin-top: 10rem;
+    margin-left: 45rem;
+}
+
+.comosurgiu {
+    position: absolute;
+    color:rgb(0, 0, 0);
+    text-align: justify;
+    top: 50px;
+    left: 60px;
+    width: 40rem;
+    line-height: 35px;
+    height: 30px;
+    font-weight: 100;
+    font-size: 30px;
+    float: left;
+}
+
+.coluna1 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.coluna2 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    margin-bottom: 50px;
+}
+
+.coluna3 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    margin-bottom: 50px;
+}
+
+.textocadastro {
+    position: absolute;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    top: 150px;
+    left: 150px;
+    width: 800px;
+    line-height: 50px;
+    height: 30px;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.formulario {
+    background-color: rgba(255, 255, 255, 0.25);
+    width: 700px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-weight: 100;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 30px;
+}
+
+.botaoenviar {
+    margin-top: 30px;
+}
